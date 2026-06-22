@@ -1,6 +1,6 @@
 {
   "name": "huekit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tiny, type-safe color toolkit — parse hex/rgb/hsl, convert, format, lighten/darken/mix, and WCAG contrast. Zero dependencies.",
   "keywords": [
     "color",
